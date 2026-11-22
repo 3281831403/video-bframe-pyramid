@@ -1,0 +1,25 @@
+# Python 运行时产物
+__pycache__/
+*.py[cod]
+*$py.class
+
+# pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# 虚拟环境
+.venv/
+venv/
+env/
+
+# 打包与编辑器
+build/
+dist/
+*.egg-info/
+.idea/
+.vscode/
+
+# 系统文件
+.DS_Store
+Thumbs.db
